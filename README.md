@@ -14,3 +14,7 @@
 
 <h3 align="left">GitHub Readme Activity Graph :</h3>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ealainsi&theme=xcode" /> </div>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Ealainsi/github-readme-activity-graph&type=Timeline)](https://star-history.com/#Ashutosh00710/github-readme-activity-graph&Timeline)
