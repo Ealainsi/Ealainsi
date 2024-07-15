@@ -8,3 +8,9 @@
 <h3 align="left">Github Star:</h3>
 
 ![Ealainsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ealainsi)
+
+<h3 align="left">Most used languages :</h3>
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ealainsi" /> </div>
+
+<h3 align="left">GitHub Readme Activity Graph :</h3>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ealainsi&theme=xcode" /> </div>
