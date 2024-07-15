@@ -1,20 +1,37 @@
-<h1 align="center">Hi 👋, I'm Ealainsi</h1>
-<h3 align="center">An ordinary developer who wants to do something interesting</h3>
-<p align="left">
-</p>
+<div>
+<h1 align="left">Ealainsi</h1> 
+  <img src="https://count.getloli.com/get/@:name" alt=":name" style="float:right; margin: 5px;" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-<h3 align="left">Github Star:</h3>
+<div>
+  <h2 align="left"> 自我介绍</h2>
+  <ul>
+    <li>大家好，我是Ealainsi</li>
+    <li>欢迎来到我的Github</li>
+  </ul>
+</div>
 
-![Ealainsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ealainsi)
+<div>
+<h2 align="left"> 社交主页</h2>
+<ul>
+    <li>个人网站</li>
+</ul>
+</div>
 
+<div>
+  <h2 align="left">技术栈</h2>
+
+</div>
+
+<div>
+  <h2 align="left"> Github 状态图</h2>
+
+  ![Ealainsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ealainsi)
+</div>
+
+<div>
 <h3 align="left">Most used languages :</h3>
 <div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ealainsi" /> </div>
+</div>
 
-<h3 align="left">GitHub Readme Activity Graph :</h3>
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ealainsi&theme=xcode" /> </div>
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Ealainsi/github-readme-activity-graph&type=Timeline)](https://star-history.com/#Ashutosh00710/github-readme-activity-graph&Timeline)
